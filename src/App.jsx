@@ -104,7 +104,7 @@ function App() {
           Contact us: <a href="mailto:info@cherasilesda.org" className="hover:text-primary-9 transition-colors">info@cherasilesda.org</a>
         </p>
         <a
-          href="https://www.youtube.com/@CherAsileSDA"
+          href="https://youtube.com/@cherasilesdachurch7340?si=r2ASCBYouM0fo7FN"
           target="_blank"
           rel="noopener noreferrer"
           className="main-text text-lg font-shadows text-primary-10 hover:text-primary-9 transition-colors mb-4"
